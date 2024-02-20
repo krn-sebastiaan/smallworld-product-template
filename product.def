@@ -1,0 +1,9 @@
+example_product layered_product
+
+title
+	Example Product
+end
+
+description
+	This is the description of an example product
+end

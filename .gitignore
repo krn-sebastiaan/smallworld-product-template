@@ -1,0 +1,10 @@
+\#*.*\#
+.project
+.svn
+*~
+*.elc
+*.jou
+*.magikc
+*.msgc
+*.bak
+libs/
